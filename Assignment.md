@@ -1,5 +1,7 @@
 For this project, we will try to set up a hierarchy of classes, similar to our Media example from class. This project is open-ended in terms of what you choose as a theme/topic for your hierarchy, though I have provided a few examples [here](https://docs.google.com/document/d/1Znj77zdgbvKQ-DgtZPK4hXILk3vVWlULSU7x_6WiIeY/edit?usp=sharing) that you can choose from and utilize if you want.
 
+All of the information below is stored in [this checklist sheet](https://docs.google.com/spreadsheets/d/1Jcfek5pSNzys0DUry99AJ93wDcKaUZDGv4ElTveosH0/copy) if you want to make a copy to keep track of your work.
+
 Regardless of your theme/topic, here are the overarching requirements for your hierarchy:
 - All subclasses must have an “is-a” relationship with their superclass (i.e., “All books are media, but not all media are books)
 - One top-level superclass (i.e., Media from in class)
